@@ -1,0 +1,15 @@
+,Pred Ahmedabad,Pred Ajmer,Pred Bhopal,Pred Chennai,Pred Cochin,Pred Guwahati,Pred Kolkata,Pred Lucknow,Pred Ludhiana,Pred Mangalore,Pred Mumbai,Pred Nagpur,Pred New Delhi,Pred Patna
+True Ahmedabad,26,3,4,3,10,1,3,0,2,6,3,0,3,1
+True Ajmer,1,61,3,0,0,0,2,0,0,0,1,0,0,2
+True Bhopal,6,1,41,2,5,0,4,0,0,3,0,0,1,2
+True Chennai,1,1,0,56,2,0,12,4,2,0,0,4,2,5
+True Cochin,7,1,1,1,63,10,0,0,0,3,8,1,0,1
+True Guwahati,0,1,1,1,10,67,0,0,0,2,1,0,0,0
+True Kolkata,3,2,4,7,1,0,52,1,3,0,0,1,5,5
+True Lucknow,0,1,0,5,0,1,5,26,11,0,1,8,2,7
+True Ludhiana,1,0,1,1,0,0,3,6,34,1,2,7,1,8
+True Mangalore,1,0,1,1,10,9,0,0,0,43,0,0,0,0
+True Mumbai,3,0,0,1,7,1,0,1,0,0,45,0,0,1
+True Nagpur,1,0,0,1,3,0,1,7,8,1,2,42,1,0
+True New Delhi,1,3,0,3,0,1,10,4,1,0,0,0,15,8
+True Patna,0,0,1,3,2,0,6,8,6,0,0,1,0,56
