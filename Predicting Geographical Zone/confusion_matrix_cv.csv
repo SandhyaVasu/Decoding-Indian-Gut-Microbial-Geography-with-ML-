@@ -1,0 +1,5 @@
+,Pred East,Pred North,Pred South,Pred West
+True East,168,35,32,15
+True North,33,156,25,29
+True South,25,14,176,35
+True West,13,25,29,194

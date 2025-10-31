@@ -1,0 +1,5 @@
+,Pred East,Pred North,Pred South,Pred West
+True East,1.0,0.0,0.0,0.0
+True North,0.0,1.0,0.0,0.0
+True South,0.0,0.0,1.0,0.0
+True West,0.0,0.0,0.0,1.0
